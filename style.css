@@ -1,0 +1,18 @@
+/* Header Styles */
+.header {
+  background-color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 100px;
+  height: 100px;
+  background-position: bottom;
+}
+
+.footer {
+  background-color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 100px;
+  height: 100px;
+  background-position: bottom;
+}
