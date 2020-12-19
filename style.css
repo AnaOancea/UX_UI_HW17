@@ -8,8 +8,7 @@
   background-position: bottom;
 }
 header {
-  border: 2px solid red;
-  display: flex;
+    display: flex;
   justify-content: space-between;
   align-items: center;
 }
@@ -18,17 +17,24 @@ header {
   font-family: sans-serif;
 }
 
+main { 
+  color: white;
+  font-size: 50px;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
 .navbar {
   color: navy;
   font-family: sans-serif;
   display: flex;
 }
+
 .navbar li {
   list-style: none;
   padding: 3px;
 }
 main {
-  border: 2px solid red; 
   height: 90vh;
   background-image: url("Screen Shot 2020-12-15 at 9.25.26 PM.png");
   background-position: center;
